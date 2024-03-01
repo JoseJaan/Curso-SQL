@@ -5,4 +5,4 @@
 
 2.  O software utilizado para manipular os dados foi o DBeaver
 
-3.  
+3.  O repositório contém a resolução para 18 problemas variados sobre o dataset
